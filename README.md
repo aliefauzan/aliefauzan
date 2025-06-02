@@ -1,6 +1,4 @@
-## Hi there 👋
-
-**I'm Alief Fauzan**.<br>
+## Hi there I'm Alief Fauzan 👋
 
 <p align="left">
 <a href="https://github.com/aliefauzan">
